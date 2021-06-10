@@ -2,4 +2,4 @@
 искать заметки и фильтровать на понравившиеся и все.
 
 Посмотреть на проект можно вот здесь:
-https://notes-five-nu.vercel.app
+https://notes-ashy.vercel.app
